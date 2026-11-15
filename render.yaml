@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: idris-ibraheem-website
+    runtime: static
+    staticPublishPath: .
