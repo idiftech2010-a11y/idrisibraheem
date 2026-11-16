@@ -3,7 +3,7 @@
     "badge": "Cybersecurity • Artificial Intelligence • Network Engineering",
     "name": "Idris Olanrewaju Ibraheem, M.Sc., mIAENG, mCPN",
     "title": "Lecturer - Cybersecurity | Computer Science | Ph.D. Candidate",
-    "affiliation": "Department of Cybersecurity, College of Computing, Fountain University, Osogbo, Nigeria",
+    "affiliation": "Department of Mathematical and Computer Sciences (Cybersecurity Unit), College of Natural and Applied Sciences, Fountain University, Osogbo, Nigeria",
     "orcid": "0009-0002-3677-2478",
     "email": "ibraheem.idris@fuo.edu.ng, idiftech2010@yahoo.com",
     "phone": "+234 (0) 812 519 1913",
@@ -21,12 +21,12 @@
       "He holds an M.Sc. in Computer Science (2022) and a B.Sc. in Computer Science (2019) from Al-Hikmah University, Ilorin, alongside an HND (2013) and ND (2010) in Computer Science from Umaru Ali Shinkafi Polytechnic, Sokoto. He is currently completing his Ph.D. in Computer Science at Al-Hikmah University, Ilorin, investigating the 'Development of a Secure Maternal Health Risk Prediction and Monitoring Model Using LightGBM-SHAP' under Assoc. Prof. Abdulrauf Tosho. In 2022, he won the Departmental Best Innovative M.Sc. Dissertation Prize at Al-Hikmah University.",
       "At Fountain University, he teaches undergraduate courses, leads the Idris Olanrewaju Ibraheem Lab, and serves as Departmental SIWES Coordinator, Member of the Undergraduate Curriculum Committee, Quality Assurance Committee, and College Research & Innovation Committee. Previously, he held dual academic and IT leadership roles at Al-Hikmah University (2017–2025), Abdulraheem College (2020–2025), Kadmus Global Services Abuja (2015–2017), Polio Emergency Operation Center Sokoto (2015), and Usmanu Danfodiyo University Sokoto (2008–2013)."
     ],
-    "speakerBio": "Idris Olanrewaju Ibraheem, is a Nigerian cybersecurity specialist, network engineer, and Lecturer II in the Department of Mathematical and Computer Sciences (Cybersecurity Unit) at Fountain University, Osogbo. Currently a Ph.D. candidate in Computer Science at Al-Hikmah University, Ilorin, he brings over 15 years of combined enterprise IT infrastructure and academic experience to his role. Winner of the 2022 Best Innovative M.Sc. Dissertation Prize, his research applies machine learning and explainable AI to intrusion detection, cloud security, insider threat analytics, and healthcare risk modeling. He holds certifications across Cisco, ISC2, IBM, Microsoft, Fortinet, and MikroTik, and serves as a YALI Community Lead and Hult Prize Volunteer Judge.",
+    "speakerBio": "Idris Olanrewaju Ibraheem, is a Nigerian cybersecurity specialist, network engineer, and Lecturer II in the Department of Mathematical and Computer Sciences (Cybersecurity Unit) at Fountain University, Osogbo. Currently a Ph.D. candidate in Computer Science at Al-Hikmah University, Ilorin, he brings over 15 years of combined enterprise IT infrastructure and academic experience to his role. Winner of the 2026 Technology-Driven Teaching Award at the Department of Mathematical and Computer Sciences, Fountain University, his research applies machine learning and explainable AI to intrusion detection, cloud security, insider threat analytics, and healthcare risk modeling. He holds certifications from Cisco, ISC2, IBM, Microsoft, Fortinet, and MikroTik, and serves as a YALI Community Lead and Hult Prize Volunteer Judge.",
     "quickFacts": [
       "Birthday: May 14 (Born in Agege, Lagos State)",
       "Origin: Epe LGA, Lagos State, Nigeria",
       "Languages: English, Yoruba, Hausa, Arabic",
-      "Affiliations: IAENG, Africa's Young Entrepreneurs, YALI Community Lead",
+      "Affiliations: IAENG, CPN, Africa's Young Entrepreneurs, YALI Community Lead",
       "Family & Interests: Married with three children; Technology research, reading, aerobics"
     ]
   },
@@ -112,7 +112,7 @@
     ]
   },
   "teaching": {
-    "philosophy": "Grounded in over a decade of hands-on enterprise network engineering and systems administration, my teaching emphasizes applied, practical defense—bridging core computer science theory with live packet inspection, cloud security labs, ethical hacking simulations, and Governance, Risk, and Compliance (GRC) frameworks.",
+    "philosophy": "Grounded in over a decade of hands-on enterprise network engineering and systems administration, my teaching emphasizes applied, practical defense bridging core computer science theory with live packet inspection, cloud security labs, ethical hacking simulations, and Governance, Risk, and Compliance (GRC) frameworks.",
     "categories": [
       {
         "title": "Cybersecurity & Information Assurance",
